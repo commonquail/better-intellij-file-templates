@@ -3,6 +3,11 @@
 Code generation file templates for the IntelliJ IDEA IDE,
 written with best-practices in mind.
 
+* Minimise accessibility and mutability by default;
+  `final` classes, fields, and parameters.
+* No archaic, superfluous test method prefixes.
+* No useless metadata in file header.
+
 ## Installation
 
 Installation is a little tricky
